@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:100,200,400");
-@import url("./_mobile.css");
-@import url("./_tablet.css");
-@import url("./_desktop.css");
+@import url("./mobile.css");
+@import url("./tablet.css");
+@import url("./desktop.css");
 
 * { 
     border: 0; 
